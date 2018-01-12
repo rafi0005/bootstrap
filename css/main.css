@@ -1,0 +1,15 @@
+
+
+html,h1,h2{
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+body{
+font-family: 'Open Sans', sans-serif;
+	background-color:slategrey;
+}
+h1,h2{
+	background-color:slategrey;
+	text-align: left;
+}
